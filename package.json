@@ -1,7 +1,7 @@
 {
   "name": "gamma-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A green Atom syntax theme.",
   "keywords": [
     "syntax",
