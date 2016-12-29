@@ -1,0 +1,15 @@
+{
+  "name": "gamma-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A green Atom syntax theme.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/redgenco/gamma-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
