@@ -84,7 +84,7 @@ atom-text-editor .search-results .marker.current-result .region,
 
   &.other.unit { // CSS "px"
     color: @color-nine;
-    background-color: @gammablack;
+    background-color: @black; //@gammablack
   }
 }
 
@@ -94,7 +94,7 @@ atom-text-editor .search-results .marker.current-result .region,
 
 .constant {
   color: @color-nine; // C# bools, CSS options - "block" etc.
-  background-color: @gammablack;
+  background-color: @black; //@gammablack
 
 
   &.character.escape {
@@ -103,7 +103,7 @@ atom-text-editor .search-results .marker.current-result .region,
 
   &.numeric {
     color: @color-nine; // C# Ints etc
-    background-color: @gammablack;
+    background-color: @black; //@gammablack
   }
 
   &.other.color {
@@ -222,7 +222,7 @@ atom-text-editor .search-results .marker.current-result .region,
 
   &.name.tag { // HTML Tags
     color: @color-six;
-    background-color: @white;
+    background-color: @gammawhite; //fade(@white, 60%);
   }
 
   &.other.attribute-name {
